@@ -1,0 +1,17 @@
+Your company:    
+font - "Times New Roman",35px;
+
+call -#878585
+
+content:
+font - Arial, 12px
+
+slogan:
+font - "Times New Roman",36px;
+
+heading:
+font - Arial, 25px
+color - #0b90d6
+
+welcome to your company - #989b9c, #686868
+btn - #4d4e4e
